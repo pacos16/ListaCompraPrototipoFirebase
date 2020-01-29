@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1077912326041",
+    "firebase_url": "https://listacompraprototipo-f4805.firebaseio.com",
+    "project_id": "listacompraprototipo-f4805",
+    "storage_bucket": "listacompraprototipo-f4805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077912326041:android:e606603f9fd6cc7c3e0d08",
+        "android_client_info": {
+          "package_name": "com.pacosignes.listacompraprototipo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077912326041-sj5eki6dbme05stq00ugqjks3c8b69og.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pacosignes.listacompraprototipo",
+            "certificate_hash": "12d4c4613d700b258ef34cd0e9fce1316354e36d"
+          }
+        },
+        {
+          "client_id": "1077912326041-pcq2nng0jc9jf45p7n8ck2op8mkb49lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRM9pCwxQCb6vG_3Qv-_zSW1mdVPLW6mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077912326041-pcq2nng0jc9jf45p7n8ck2op8mkb49lk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
